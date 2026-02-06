@@ -224,4 +224,3 @@ python bot.py
 **Разработано с использованием aiogram 3 и SQLite**
 
 </div>
-```
