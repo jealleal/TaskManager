@@ -1,5 +1,3 @@
-# Task Manager Bot
-
 <div align="center">
     
 <img width="2048" height="807" alt="изображение" src="https://github.com/user-attachments/assets/f42e6fa9-82f3-4e65-b67c-94f43aa72ca4" />
