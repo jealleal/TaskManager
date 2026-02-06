@@ -1,10 +1,8 @@
 # Task Manager Bot
 
 <div align="center">
-
-## Управление задачами через Telegram бота
-
-**Многофункциональная система для распределения и контроля задач с ролевой моделью доступа**
+    
+<img width="2048" height="807" alt="изображение" src="https://github.com/user-attachments/assets/f42e6fa9-82f3-4e65-b67c-94f43aa72ca4" />
 
 </div>
 
@@ -221,6 +219,6 @@ python bot.py
 
 <div align="center">
 
-**Разработано с использованием aiogram 3 и SQLite**
+**Разработано на python и aiogram 3.x**
 
 </div>
